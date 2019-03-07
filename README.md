@@ -5,5 +5,7 @@ M. Amintoosi
 محمود امین‌طوسی
 
 ![](results/1_1.jpg)
-![]("results/1_1 (27).jpg")
+
+<img src="results/1_1 (27).jpg" />
+
 
