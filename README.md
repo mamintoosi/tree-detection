@@ -5,8 +5,5 @@ M. Amintoosi
 محمود امین‌طوسی
 
 ![](results/1_1.jpg)
-![](results/1_1 (27).jpg)
-![](results/1_1 (28).jpg)
-![](results/1_10 (26).jpg)
-![](results/1_10 (27).jpg)
-![](results/1_2 (26).jpg)
+![]("results/1_1 (27).jpg")
+
