@@ -1,4 +1,4 @@
-<html>
+
 <center># برخی از نتایج شناسایی درخت توسط تیم گروه علوم کامپیوتر دانشگاه حکیم سبزواری 
 </br><table  align="center" border="1">
 <tr><td>testImages</td><td>tree20190221T2228</td><td>tree20190223T1028</td></tr>
@@ -35,4 +35,4 @@
 <tr><td  align="right" valign="top"><img src="testImages/2_3 (6).jpg" width="240"></td><td><img src="tree20190221T2228/2_3 (6).jpg" width="260"></td><td><img src="tree20190223T1028/2_3 (6).jpg" width="260"></td></tr>
 <tr><td  align="right" valign="top"><img src="testImages/2_3 (7).jpg" width="240"></td><td><img src="tree20190221T2228/2_3 (7).jpg" width="260"></td><td><img src="tree20190223T1028/2_3 (7).jpg" width="260"></td></tr>
 <tr><td  align="right" valign="top"><img src="testImages/2_3 (9).jpg" width="240"></td><td><img src="tree20190221T2228/2_3 (9).jpg" width="260"></td><td><img src="tree20190223T1028/2_3 (9).jpg" width="260"></td></tr>
-</table></center></html>
+</table></center>
