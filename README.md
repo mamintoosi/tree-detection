@@ -1,11 +1,13 @@
 ## Our Team won second place in Tree detection challenge at 
-## <a href = "http://icee2019.yazd.ac.ir/Home/NewsContent/1071"> 27th Iranian Conference on Electrical Engineering (ICEE 2019) </a> 
+##  27th Iranian Conference on Electrical Engineering (ICEE 2019) 
 </br>
+![certificate.jpg](ertificate.jpg)
+مقام دوم مسابقه شناسایی درخت در ۲۷مین کنفرانس مهندسی برق ایران
+</br>
+
+با توجه به اینکه این مسابقه مقام اول نداشت، می‌توان گفت تیم دانشگاه حکیم سبزواری برنده‌ی مسابقه بوده است.
 برخی از نتایج شناسایی درخت توسط تیم گروه علوم کامپیوتر دانشگاه حکیم سبزواری 
 </br>
-<a href = "http://icee2019.yazd.ac.ir/Home/NewsContent/1068"> مقام دوم مسابقه شناسایی درخت در ۲۷مین کنفرانس مهندسی برق ایران </a>
-</br>
-با توجه به اینکه این مسابقه مقام اول نداشت، می‌توان گفت تیم دانشگاه حکیم سبزواری برنده‌ی مسابقه بوده است.
 <center></br><table  align="center" border="1">
 <tr><td>testImages</td><td>tree20190221T2228</td><td>tree20190223T1028</td></tr>
 <tr><td  align="right" valign="top"><img src="testImages/1_1 (26).jpg" width="240"></td><td><img src="tree20190221T2228/1_1 (26).jpg" width="260"></td><td><img src="tree20190223T1028/1_1 (26).jpg" width="260"></td></tr>
