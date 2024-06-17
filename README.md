@@ -1,7 +1,8 @@
 ## Our Team won second place in Tree detection challenge at 
 ##  27th Iranian Conference on Electrical Engineering (ICEE 2019) 
 </br>
-![certificate.jpg](ertificate.jpg)
+![certificate.jpg](./certificate.jpg)
+
 مقام دوم مسابقه شناسایی درخت در ۲۷مین کنفرانس مهندسی برق ایران
 </br>
 
